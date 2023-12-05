@@ -107,6 +107,54 @@
 // let res = k;
 // console.log(res);
 
+// Shaxmat16
+// Berilgan koordinalar
+// let x1 =4 ;
+// let y1 =1;
+// let x2 = 1;
+// let y2 =5 ;
+// let color1 = (x1 + y1) % 2 === 0 ? 'oq' : 'qora';
+// let color2 = (x2 + y2) % 2 === 0 ? 'oq' : 'qora';
+// let res = color1 === color2;
+// console.log(res ? "Berilgan maydonlar bir xil rangda" : "Berilgan maydonlar bir xil rangda emas");
+
+// Shaxmat17
+// Berilgan koordinalar
+// let x1 = 4;
+// let y1 = 5;
+// let x2 = 4;
+// let y2 = 6;
+// let res = (Math.abs(x1 - x2) <= 1 && Math.abs(y1 - y2) <= 1);
+// console.log(res ? "Ruh bir yurishda bir maydondan ikkinchisiga o'ta oladi" : "Ruh bir yurishda bir maydondan ikkinchisiga o'ta olmaydi");
+
+// Shaxmat18
+// Berilgan koordinalar
+// let x1 =3;
+// let y1 =5;
+// let x2 =3;
+// let y2 =8;
+// let res = (Math.abs(x1 - x2) <= 1 && Math.abs(y1 - y2) <= 1);
+// console.log(res ? "Shoh bir yurishda bir maydondan ikkinchisiga o'ta oladi." : "Shoh bir yurishda bir maydondan ikkinchisiga o'ta olmaydi.");
+
+// Shaxmat19
+// Berilgan koordinalar
+// let x1 = 4;
+// let y1 = 5;
+// let x2 = 5;
+// let y2 = 6;
+// let res = Math.abs(x1 - x2) === Math.abs(y1 - y2);
+// console.log(res ? "Fil bir yurishda bir maydondan ikkinchisiga o'ta oladi" : "Fil bir yurishda bir maydondan ikkinchisiga o'ta olmaydi");
+
+// Shaxmat20
+// Berilgan koordinalar
+// let x1 = 1;
+// let y1 =1 ;
+// let x2 = 2;
+// let y2 = ;
+// let res = Math.abs(x1 - x2) * Math.abs(y1 - y2) === 2;
+// console.log(res ? "Ot bir yurishda bir maydondan ikkinchisiga o'ta oladi" : "Ot bir yurishda bir maydondan ikkinchisiga o'ta olmaydi");
+
+
 // Operator1
 // let A = 1;
 // let B = 2;
